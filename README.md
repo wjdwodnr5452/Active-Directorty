@@ -1,3 +1,8 @@
+# 가상머신과 가상머신 소프트웨어의 개념
+- 진짜 컴퓨터에 설치된 운영체제(호스트 OS) 안에 가상ㅇ의 컴퓨터를 만들고, 그 안에 또 다른 운영체제 (게스트 OS)를 설치/운영 할 수 있도록 제작된 소프트웨어
+<img width="1331" height="823" alt="image" src="https://github.com/user-attachments/assets/3ef9ee54-8be8-47ae-ac63-a3814cd0cab2" />
+
+
 # Active-Directorty
 - 일반적인 회사의 네트워크 상황을 Windows Server에서 구현하기 위한 기술
 - 네트워크 상으로 나눠져 있는 여러 자원을 중앙의 관리자가 통합하여 관리함으로써, 본사 및 지사의 직원들은 자신의 PC에 모든 정보를 보관할 필요가 없어짐
